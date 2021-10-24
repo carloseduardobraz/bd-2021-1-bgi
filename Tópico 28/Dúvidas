@@ -1,0 +1,14 @@
+Adicionei duas enditades sendo elas entrega e estoque.
+
+Criei ambas, pois juguei necessarias para dar uma completuti maior para o desenvolvimento do banco de dados no futuro.
+
+Tive algumas dúvidas em relação as essas adiciões, a primeira foi na enditade de entrega coloquei o endereço como atribuido como chave fraca, pois pode sofrer alterações futuras
+gostaria de saber se isso está corredo, se o senhor puder tirar essa dúvida ficarei grato.
+
+A segunda dúvida ainda é na mesma enditade coloquei o CPFCLIENTE coloquei ela como chave fraca e atribuido faco, pois se tratar de uma chave estrangeira e uma "id" de consultas
+futuras, fiz certo?
+
+A segunda enditade que eu adicionei foi a estoque, pois sentir a necessidade, pois já que foi solicidado na reflexão 06 ai achei melhor adicionar ela para que seja mais fácil
+realizar consultas.
+
+Agradeço a atenção
